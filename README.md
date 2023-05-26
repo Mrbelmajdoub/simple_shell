@@ -1,5 +1,5 @@
 # 0x16. C - Simple Shell
- **By Mrbelmajdoub,**
+ **By Mrbelmajdoub,and Paul Chadi**
  Project to be done in teams of 2 people (your team: Belmajdoub saad, CHADI PAUL)
 
 # Learning Objectives
